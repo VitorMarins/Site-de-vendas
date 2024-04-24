@@ -1,16 +1,14 @@
 .conteudo{
     padding-top: 2%;
+    padding-bottom: 2%;
 }
 
 #test {
 background-color: black;
 color: white !important;
-
 }
-
 
 footer {
     background-color: black;
     color: white !important;
-
 }
